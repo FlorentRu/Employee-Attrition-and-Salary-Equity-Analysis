@@ -1,4 +1,4 @@
-# Class Prject: Employee Attrition and Salary Equity Analysis
+# Class Project: Employee Attrition and Salary Equity Analysis
 
 ## Project Overview
 
